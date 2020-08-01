@@ -1,1 +1,1 @@
-[github link] (https://github.com/stepin104947)
+[github link](https://github.com/stepin104947)
